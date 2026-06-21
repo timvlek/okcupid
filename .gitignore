@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+
+# Virtual environments
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.db
+*.feather
+*.h5
+*.json
+*.parquet
+*.sqlite
+*.tsv
+
+# Model checkpoints and pickled objects
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.ckpt
+
+# Logs and temp files
+*.log
+*.tmp
+*.out
+
+# OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+# -----------------------------
+# Histplot (horizontal orientation)
+# -----------------------------
+
+axes.grid:          True
+axes.grid.axis:     x
+
+axes.spines.bottom: False
+axes.spines.top:    False
+axes.spines.left:   True
+axes.spines.right:  False
+
+xtick.labelbottom:  True
+xtick.labeltop:     False
+ytick.labelleft:    True
+ytick.labelright:   False
+
+xtick.bottom:       False
+xtick.top:          False
+ytick.left:         True
+ytick.right:        False

@@ -1,0 +1,31 @@
+axes.axisbelow: True
+axes.grid: True
+axes.grid.axis: y
+axes.labelcolor: grey
+axes.labelpad: 12
+axes.spines.bottom: False
+axes.spines.left: True
+axes.spines.right: False
+axes.spines.top: False
+axes.titlelocation: left
+axes.titlecolor: grey
+axes.titlepad: 14
+axes.titlesize: 14
+axes.titleweight: bold
+grid.alpha: 0.7
+figure.autolayout: True
+figure.figsize: 8, 6
+figure.titleweight: bold
+legend.loc: lower right
+legend.frameon: False
+savefig.format: svg
+xaxis.labellocation: left
+yaxis.labellocation: bottom
+xtick.bottom: False
+xtick.color: grey
+xtick.labelcolor: grey
+xtick.top: False
+ytick.color: grey
+ytick.labelcolor: grey
+ytick.left: False
+ytick.right: False

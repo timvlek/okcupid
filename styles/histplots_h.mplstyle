@@ -1,0 +1,20 @@
+axes.grid:          False
+
+axes.labelcolor:    None
+axes.labelsize:     0
+axes.labelpad:      0
+
+axes.spines.bottom: False
+axes.spines.left:   True
+axes.spines.right:  False
+axes.spines.top:    False
+
+xtick.labelbottom:  False
+ytick.labelleft:    False
+ytick.labelright:   False
+xtick.labeltop:     False
+
+xtick.bottom:       False
+ytick.left:         False
+ytick.right:        False
+xtick.top:          False

@@ -1,0 +1,13 @@
+display:
+  date_yearfirst: True
+  expand_frame_repr: False
+  max_rows: 10
+  max_columns: 20
+  max_colwidth: 10
+  max_seq_items: 10
+  multi_sparse: True
+  precision: 2
+  width: 88
+
+mode:
+  chained_assignment: 'raise'

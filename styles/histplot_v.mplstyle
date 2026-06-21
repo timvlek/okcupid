@@ -1,0 +1,17 @@
+axes.grid:          True
+axes.grid.axis:     y
+
+axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.left:   False
+axes.spines.right:  False
+
+xtick.labelbottom:  True
+xtick.labeltop:     False
+ytick.labelleft:    True
+ytick.labelright:   False
+
+xtick.bottom:       True
+xtick.top:          False
+ytick.left:         False
+ytick.right:        False

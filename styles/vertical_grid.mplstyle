@@ -1,0 +1,2 @@
+axes.grid: True
+axes.grid.axis: y

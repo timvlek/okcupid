@@ -1,0 +1,44 @@
+axes.facecolor:                         black
+axes.edgecolor:                         darkgrey
+axes.titlecolor:                        white
+axes.labelcolor:                        darkgrey
+
+boxplot.flierprops.color:               darkgrey
+boxplot.flierprops.markerfacecolor:     None
+boxplot.flierprops.markeredgecolor:     darkgrey
+boxplot.boxprops.color:                 darkgrey
+boxplot.whiskerprops.color:             darkgrey
+boxplot.capprops.color:                 darkgrey
+boxplot.medianprops.color:              C1
+boxplot.meanprops.color:                C2
+boxplot.meanprops.markerfacecolor:      C2
+boxplot.meanprops.markeredgecolor:      C2
+
+figure.facecolor:                       black
+figure.edgecolor:                       black
+
+grid.color:                             darkgrey
+hatch.color:                            darkgrey
+
+legend.facecolor:                       inherit
+legend.edgecolor:                       0.8
+legend.labelcolor:                      None
+
+lines.color:                            darkgrey
+lines.markerfacecolor:                  auto
+lines.markeredgecolor:                  auto
+
+xtick.color:                            darkgrey
+xtick.labelcolor:                       inherit
+ytick.color:                            darkgrey
+ytick.labelcolor:                       inherit
+
+patch.facecolor:                        C0
+patch.edgecolor:                        black
+
+pdf.inheritcolor:                       False
+savefig.facecolor:                      auto
+savefig.edgecolor:                      auto
+scatter.edgecolors:                     face
+
+text.color:                             white

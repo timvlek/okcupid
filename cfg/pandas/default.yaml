@@ -1,0 +1,16 @@
+# -----------------------------
+# Pandas options settings
+# Reference guide: https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html
+# -----------------------------
+   
+display.date_yearfirst: True            # Use YYYY-MM-DD format for dates.
+display.expand_frame_repr: False        # Do not wrap wide DataFrames across lines.
+display.max_rows: 10                    # Max rows shown when printing DataFrames.
+display.max_columns: 20                 # Max columns shown when printing DataFrames.
+display.max_colwidth: 10                # Truncate long column values to 10 chars.
+display.max_seq_items: 10               # Max items shown in lists/arrays.
+display.multi_sparse: True              # Compress MultiIndex display.
+display.precision: 2                    # Number of decimal places for floats.
+display.width: 88                       # Total display width in characters.
+
+mode.chained_assignment: 'raise'        # Raise error on chained assignment (safer).

@@ -1,0 +1,32 @@
+college/university: bachelors
+dropped out of college/university: some college
+dropped out of high school: NA
+dropped out of law school: bachelors
+dropped out of masters program: bachelors
+dropped out of med school: bachelors
+dropped out of ph.d program: masters
+dropped out of space camp: NA
+dropped out of two-year college: some college
+graduated from college/university: bachelors
+graduated from high school: high school
+graduated from law school: masters
+graduated from masters program: masters
+graduated from med school: masters
+graduated from ph.d program: doctorate
+graduated from space camp: NA
+graduated from two-year college: associate
+high school: high school
+law school: masters
+masters program: masters
+med school: masters
+ph.d program: doctorate
+space camp: NA
+two-year college: associate
+working on college/university: some college
+working on high school: NA
+working on law school: bachelors
+working on masters program: bachelors
+working on med school: bachelors
+working on ph.d program: masters
+working on space camp: pd.NA
+working on two-year college: some college
